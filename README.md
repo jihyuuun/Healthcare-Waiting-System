@@ -41,7 +41,7 @@
 
 ### **2️⃣ Baseline 모델 구축**
 - **SIMIO software (version 17)**
-- 
+
 <img width="940" height="415" alt="image" src="https://github.com/user-attachments/assets/c62b2f37-1b25-47a1-977d-140b2ccd2d24" />
 
 - **Model Entity**
