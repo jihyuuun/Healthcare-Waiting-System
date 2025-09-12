@@ -18,7 +18,6 @@
 ├── model/                    
 │   ├── 컴시_텀프_베이스라인과대안1_최종.spfx      # Baseline model과 Alternative 1 model 파일
 │   ├── 컴시_텀프_대안2_최종.spfx                 # Alternative 2 model 파일
-├── 컴시_3차보고서_최종.pdf                       # 연구 보고서
 ├── README.md                                   # 연구 설명
 ```
 
